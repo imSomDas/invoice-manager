@@ -1,4 +1,4 @@
-# Invoice Manager App
+# Inventory manager App
 
 The **Invoice Manager App** is a Django-based application that helps manage invoices, products, and customer data. It includes features for uploading product data, generating PDF invoices, viewing and deleting invoices and products, and exporting data to Excel.
 
